@@ -1,3 +1,8 @@
+ /** Your Name: Eren Gündoğmuş
+ * Your Student ID: 230446010
+ * Your Date: 18.10.2026     **/
+
+
 import game.inventory.Inventory;
 import game.inventory.Item;
 

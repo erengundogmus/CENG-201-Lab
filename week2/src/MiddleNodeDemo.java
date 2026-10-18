@@ -1,3 +1,9 @@
+ /** Your Name: Eren Gündoğmuş
+ * Your Student ID: 230446010
+ * Your Date: 12.10.2026     **/
+
+
+
 /** Demonstrates finding the middle node in odd and even lists. */
 public class MiddleNodeDemo {
     public static void main(String[] args) {

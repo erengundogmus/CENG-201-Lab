@@ -1,3 +1,8 @@
+ /** Your Name: Eren Gündoğmuş
+ * Your Student ID: 230446010
+ * Your Date: 12.10.2026     **/
+
+
 /** Demonstrates deleting the middle node in linked lists. */
 public class DeleteMiddleDemo {
     public static void main(String[] args) {

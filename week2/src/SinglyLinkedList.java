@@ -1,3 +1,9 @@
+ /** Your Name: Eren Gündoğmuş
+ * Your Student ID: 230446010
+ * Your Date: 12.10.2026     **/
+
+
+
 /** A simple singly linked list with middle-node operations. */
 public class SinglyLinkedList {
     private Node head;
